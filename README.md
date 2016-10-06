@@ -1,2 +1,2 @@
 # proposal-template
-Template for DGBB proposals.
+Optional, recommended, customizable template for DGBB proposals
