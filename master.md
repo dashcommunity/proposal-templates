@@ -1,24 +1,3 @@
-# Proposal template
-
-The template below is intended to help you produce a clear and concise, yet informormative proposal.  This is just a template; you can customize the sections in your project as you see fit.  Keep in mind that proposals typically need at least a scope, budget, and schedule to be considered useful. Each major section below has **Description** and **Example** subsections. These are included for reference in the template, but these headings should be ommitted in your proposal, as described in the following steps.
-
-##### To use this template:
-
-1. Copy the proposal template text
-  1. Navigate to the [template file](https://github.com/dashcommunity/proposal-template/master)
-  2. Click the pencil icon as if you were editing the template
-  3. Copy the text of the template, starting with the **Overview** section
-  4. Click cancel to exit edit mode
-2. Paste and edit the template into your project
-  1. Navigate back to your project, e.g. http://github.com/dashcommunity/proposal-yourusername-2016-12-31
-  2. Click edit
-  3. Paste the text in your clipboard into the file 
-3. Edit your proposal
-  1. Read the templete to get an idea of what goes where in the proposal
-  2. Delete all of the **description** headings and text under them
-  3. Delete all of the "**Example**" *headings*, and modify the body to fit your own proposed project
-  4. Click the green **Commit changes** button
-
 ### Overview
 
 ###### Description
