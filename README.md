@@ -1,14 +1,14 @@
-# About this Repository 
-* This Github repository [`proposal-templates`](https://github.com/dashcommunity/proposal-templates) contains proposal templates
+### About this Repository 
+* This Github repository ([`proposal-templates`](https://github.com/dashcommunity/proposal-templates)) contains proposal templates
 * Anyone can create a template here 
 * Two example templates, `simple.md` and `detailed.md` are provided for reference and use. 
 
-# About this Document
-* This document (`README.md`) is intended to help you produce concise, yet informormative proposals  
+### About this Document
+* This document ([`README.md`](https://github.com/dashcommunity/proposal-templates/README.md)) is intended to help you produce concise, yet informormative proposals  
 * These are just a templates; customize sections in your project as you see fit
 * Proposals typically need at least a scope, budget, and schedule to be considered useful
 
-# About Templates
+### About Templates
 * Each template should have both **Description** and **Example** subsections in each section. 
   * These are included for reference in the template
   * The **Description** and **Example** headings should be ommitted in your proposal
