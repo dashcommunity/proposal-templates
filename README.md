@@ -3,7 +3,7 @@
 ### About this Repository 
 * This Github repository ([`proposal-templates`](https://github.com/dashcommunity/proposal-templates)) contains proposal templates
 * Anyone can create a template here 
-* Two example templates, `simple.md` and `detailed.md` are provided for reference and use. 
+* Two example templates, `simple.md` and `[detailed.md](https://github.com/dashcommunity/proposal-templates/blob/master/detailed.md)` are provided for reference and use. 
 
 ### About this Document
 * This document ([`README.md`](https://github.com/dashcommunity/proposal-templates/blob/master/README.md)) provides general information about templates and proposals.  Step-by-step guids on how to create a template for the community and how to use a template for your own proposal are also given
@@ -31,7 +31,7 @@
 ### Using a template for your proposal
 
 1. Copy the proposal template text
-  1. Navigate to a template, e.g. [`simple.md`](https://github.com/dashcommunity/proposal-templates/simple)
+  1. Navigate to a template, e.g. [`detailed.md`](https://github.com/dashcommunity/proposal-templates/blob/master/detailed.md)
   2. Click `view raw`
   3. Copy the entire text of the template
 2. Paste and edit the template into your project
