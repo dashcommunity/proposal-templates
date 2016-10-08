@@ -55,12 +55,12 @@ Real proposal example narrative
 This section provides a reasonable project schedule.  Estimate dates based on best available data.  Anticipate potential issues and provide assumptions/comments to  and manage personal and third-party expectations.  Milestones may or may not correspond one-to-one with deliverables.  
 
 ###### Example
-| Milestone   |                  Description                  | Completion Date |                 Comment                 |
-|-------------|:---------------------------------------------:|:---------------:|:---------------------------------------:|
-| Milestone 1 | Deliverable 1 and 2 planned                   |    2016-11-07   | Assumes 2016-11-04 funding              |
-| Milestone 2 | Deliverable 1 complete; deliverable 3 planned |    2016-11-14   | Assumes x                               |
-| Milestone 3 | Deliverable 2 complete                        |    2016-11-28   | This may go wrong between MS 3 and MS 4 |
-| Milestone 4 | Deliverable 3 complete                        |    2016-12-14   | Milestone depends on continued funding  |
+| Milestone    |                  Description              | Completion Date |                 Comment                 |
+|--------------|-------------------------------------------|:---------------:|-----------------------------------------|
+| MS 1         | Deliverable 1 and 2 planned               |    2016-11-07   | Assumes 2016-11-04 funding              |
+| MS 2         | Deliverable 1 complete; del. 3 planned    |    2016-11-14   | Assumes x                               |
+| MS 3         | Deliverable 2 complete                    |    2016-11-28   | This may go wrong between MS 3 and MS 4 |
+| MS 4         | Deliverable 3 complete                    |    2016-12-14   | Milestone depends on continued funding  |
 
 ### Budget
 
@@ -79,9 +79,9 @@ This section provides itemized costs, in tabular form
 
 ###### Table 1 - Total Costs Requested
 |         Item        |    Cost   |   Units  |                       Comment                      |
-|:-------------------:|:---------:|:--------:|:--------------------------------------------------:|
-| Time                |   $1,080  |    USD   | See Table 1                                        |
-| Materials           |    $210   |    USD   | See Table 2                                        |
+|---------------------|:---------:|:--------:|----------------------------------------------------|
+| Time                |   $1,080  |    USD   | See Table 2                                        |
+| Materials           |    $210   |    USD   | See Table 3                                        |
 | *Subtotal*          |  *$1,290* |    USD   | Total project cost                                 |
 | *Subtotal*          |  *107.5*  |   DASH   | Using $12 USD/DASH                                 |
 | **Total Requested** |  **100**  | **DASH** | Round down, because I love dash (and even numbers) |
@@ -99,7 +99,7 @@ This section provides itemized costs, in tabular form
 
 ###### Table 3 - Material Costs
 | Material Costs |    Description    |  Deliverable  | Cost (USD) |          Comment         |
-|:--------------:|:-----------------:|:-------------:|:----------:|:------------------------:|
+|----------------|-------------------|:-------------:|:----------:|--------------------------|
 | Item 1         | Hardware          | Deliverable 1 |    $200    | Raspberry Pi for testing |
 | Item 2         | Subscription fees | Deliverable 3 |     $10    |                          |
 | **Total**      |                   |               |  **$210**  | Total material costs     |
