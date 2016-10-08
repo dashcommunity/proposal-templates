@@ -1,7 +1,7 @@
 # About
 
 ### About this Repository 
-* This Github repository ([`proposal-templates`](https://github.com/dashcommunity/proposal-templates)) contains templates intended to be used for proposals submitted to dash masternode operators 
+* This Github repository ([`proposal-templates`](https://github.com/dashcommunity/proposal-templates)) contains templates intended to be used for proposals submitted to dash masternode operators (MNOs)
 * Anyone can create and store proposal templates here 
 * Two sample templates, `simple.md` and [`detailed.md`](https://github.com/dashcommunity/proposal-templates/blob/master/detailed.md) are provided for reference and use. 
 
@@ -18,12 +18,12 @@
   * **Budgets** are ideally broken down into itemized costs 
     * answers the question: *how* much does each item cost, comprising your total budget
 * A good proposal is **structured**, **concise**, and **informative**
-  * if your proposal is too long and/or unstructured: 
-    * masternodes may not even read it,
+  * if your proposal is too long and/or unstructured, MNOs: 
+    * may not even read it,
     * may have trouble understanding it,
     * may simply vote no (or abstain from voting)
-  * if your proposal lacks sufficient information:
-    * masternodes won't know what you are providing, 
+  * if your proposal lacks sufficient information, MNOs:
+    * won't know what you are providing, 
     * may feel it would be impossible to hold you accountable,
     * may simply vote no (or abstain from voting)
 
@@ -31,7 +31,8 @@
 * The templates provided here are just that, templates; customize sections in your project as you see fit
 * Each main section of a template has (should have) both a **Description** and an **Example** subsection 
   * These sections are included for reference in the template
-  * The headings should be ommitted in your proposal, replaced by your own section content
+    * The headings should be ommitted in your proposal
+    * The content should be replaced by your own
 * The process of creating a proposal using one of these templates is described below
 
 
