@@ -11,21 +11,21 @@
 
 ### About Proposls
 * Proposals typically need at least a **scope**, a **schedule**, and a **budget** to be considered complete
- * **Scopes** are ideally broken down into key deliverables 
-  * answers the question: *what* you are providing
- * **Schdules** are ideally broken down into milestones for later progress reporting
-  * answers the question: *when* will you provide the deliverables
- * **Budgets** are ideally broken down into itemized costs 
-  * answers the question: *how* much does each item cost, comprising your total budget
+  * **Scopes** are ideally broken down into key deliverables 
+    * answers the question: *what* you are providing
+  * **Schdules** are ideally broken down into milestones for later progress reporting
+    * answers the question: *when* will you provide the deliverables
+  * **Budgets** are ideally broken down into itemized costs 
+    * answers the question: *how* much does each item cost, comprising your total budget
 * A good proposal is **structured**, **concise**, and **informative**
- * if your proposal is too long and/or unstructured: 
-  * masternodes may not even read it,
-  * may have trouble understanding it,
-  * may simply vote no (or abstain from voting)
- * if your proposal lacks sufficient information:
-  * masternodes won't know what you are providing, 
-  * may feel it would be impossible to hold you accountable,
-  * may simply vote no (or abstain from voting)
+  * if your proposal is too long and/or unstructured: 
+    * masternodes may not even read it,
+    * may have trouble understanding it,
+    * may simply vote no (or abstain from voting)
+  * if your proposal lacks sufficient information:
+    * masternodes won't know what you are providing, 
+    * may feel it would be impossible to hold you accountable,
+    * may simply vote no (or abstain from voting)
 
 ### About Templates
 * The templates provided here are just that, templates; customize sections in your project as you see fit
