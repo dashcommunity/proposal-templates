@@ -48,8 +48,8 @@
 1. Create a proposal repository
   1. Sign in to Github and go to [dash community main page](https://github.com/dashcommunity)
   2. Click **New Repository**
-  3. Make sure **dashcommunity** is selected in the *Owner* field
   3. Fill out the form:
+    * *Owner*: `dashcommunity`
     * *Repository name*: `proposal-yourusername-YYYY-MM-DD`, e.g. `proposal-riongull-2016-10-06`
     * *Description*: `name-you-will-give-proposal-on-the-blockchain` (char. limit: 20, valid char.: A-Z,a-z,0-9,-)
     * *Initialize this repository with a README* box: `checked`
@@ -60,7 +60,7 @@
   3. Copy the entire text of the template
 3. Initialize a [Github Project Page](https://help.github.com/articles/creating-pages-with-the-automatic-generator/)
   1. Go back to your project repository, e.g. [proposal-riongull-2016-10-06](https://github.com/dashcommunity/proposal-riongull-2016-10-06)
-  2. Click on the **Settings** tab
+  2. Click **Settings**
   3. Scroll down to the *GitHub Pages* module
   4. Click **Launch automatic page generator**
   5. Replace the content of the automatcally-generated *body* field with the content of your clipboard
