@@ -87,21 +87,21 @@ This section provides itemized costs, in tabular form
 | **Total Requested** |  **100**  | **DASH** | Round down, because I love dash (and even numbers) |
 
 ###### Table 2 - Time Costs
-| Time Costs  | Description               | Quantity | item Cost (USD) | Cost (USD) | Comment                        |
-|-------------|---------------------------|:--------:|:---------------:|:----------:|--------------------------------|
-| TC 1        | Deliverable 1             |   1 hr   |       $50       |     $50    | $50/hr billable rate           |
-| TC 2        | Deliverable 2             |  10 hrs  |       $50       |    $500    | $50/hr billable rate           |
-| TC 3        | Deliverable 2, contractor |     -    |        -        |    $600    | Quote: Dash Developers, Inc    |
-| TC 4        | Deliverable 3             |   2 hrs  |       $25       |     $50    | $25/hr billable rate           |
-| *Subtotal*  |                           |          |                 |  *$1,200*  | 1 DASH @ 12 USD/DASH (rounded) |
-| Discount    | 10% reduction             |          |                 |    -$120   | Because I love dash            |
-| **Total**   |                           |          |                 | **$1,080** | Total time costs               |
+| Time Costs  | Description               | Quantity |  Rate (USD)  | Cost (USD) | Comment                       |
+|-------------|---------------------------|:--------:|:------------:|:----------:|-------------------------------|
+| TC 1        | Deliverable 1             |   1 hr   |       $50    |     $50    | $50/hr billable rate          |
+| TC 2        | Deliverable 2             |  10 hrs  |       $50    |    $500    | $50/hr billable rate          |
+| TC 3        | Deliverable 2, contractor |     -    |        -     |    $600    | Quote: Dash Developers, Inc   |
+| TC 4        | Deliverable 3             |   2 hrs  |       $25    |     $50    | $25/hr billable rate          |
+| *Subtotal*  |                           |          |              |  *$1,200*  | Assumes 12 USD/DASH (rounded) |
+| Discount    | 10% reduction             |          |              |    -$120   | Because I love dash           |
+| **Total**   |                           |          |              | **$1,080** | Total time costs              |
 
 ###### Table 3 - Material Costs
 | Material Costs |    Description    |  Deliverable  | Cost (USD) |          Comment         |
 |----------------|-------------------|:-------------:|:----------:|--------------------------|
-| Item 1         | Hardware          | Deliverable 1 |    $200    | Raspberry Pi for testing |
-| Item 2         | Subscription fees | Deliverable 3 |     $10    |                          |
+| MC 1           | Hardware          | Deliverable 1 |    $200    | Raspberry Pi for testing |
+| MC 2           | Subscription fees | Deliverable 3 |     $10    |                          |
 | **Total**      |                   |               |  **$210**  | Total material costs     |
 
 ###### Example
