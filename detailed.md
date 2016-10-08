@@ -56,12 +56,12 @@ This section provides a reasonable project schedule.  Estimate dates based on be
 
 ###### Example
 ###### Table 1 - Project Milestones
-| Milestone   |                  Description           | Completion Date |                 Comment                |
-|-------------|----------------------------------------|:---------------:|----------------------------------------|
-| MS 1        | Deliverable 1 and 2 planned            |    2016-11-07   | Assumes 2016-11-04 funding             |
-| MS 2        | Deliverable 1 complete; del. 3 planned |    2016-11-14   |                                        |
-| MS 3        | Deliverable 2 complete                 |    2016-11-28   | Assumes x about MS 2                   |
-| MS 4        | Deliverable 3 complete                 |    2016-12-14   | Milestone depends on continued funding |
+| Milestone   |              Description        | Completion Date |                 Comment                |
+|-------------|---------------------------------|:---------------:|----------------------------------------|
+| MS 1        | Del. 1 and 2 planned            |    2016-11-07   | Assumes 2016-11-04 funding             |
+| MS 2        | Del. 1 complete; del. 3 planned |    2016-11-14   |                                        |
+| MS 3        | Del. 2 complete                 |    2016-11-28   | Assumes x about MS 2                   |
+| MS 4        | Del. 3 complete                 |    2016-12-14   | Milestone depends on continued funding |
 
 ### Budget
 
@@ -88,15 +88,15 @@ This section provides itemized costs, in tabular form
 | **Total Requested** |  **100**  | **DASH** | Round down, because I love dash (and even numbers) |
 
 ###### Table 3 - Time Costs
-| Time Costs  | Description               | Quantity |  Rate (USD)  | Cost (USD) | Comment                       |
-|-------------|---------------------------|:--------:|:------------:|:----------:|-------------------------------|
-| TC 1        | Deliverable 1             |   1 hr   |       $50    |     $50    | $50/hr billable rate          |
-| TC 2        | Deliverable 2             |  10 hrs  |       $50    |    $500    | $50/hr billable rate          |
-| TC 3        | Deliverable 2, contractor |     -    |        -     |    $600    | Quote: Dash Developers, Inc   |
-| TC 4        | Deliverable 3             |   2 hrs  |       $25    |     $50    | $25/hr billable rate          |
-| *Subtotal*  |                           |          |              |  *$1,200*  | Assumes 12 USD/DASH (rounded) |
-| Discount    | 10% reduction             |          |              |    -$120   | Because I love dash           |
-| **Total**   |                           |          |              | **$1,080** | Total time costs              |
+| Time Costs  | Description       | Quantity |  Rate (USD)  | Cost (USD) | Comment                       |
+|-------------|-------------------|:--------:|:------------:|:----------:|-------------------------------|
+| TC 1        | Deliverable 1     |   1 hr   |       $50    |     $50    | $50/hr billable rate          |
+| TC 2        | Deliverable 2     |  10 hrs  |       $50    |    $500    | $50/hr billable rate          |
+| TC 3        | Deliverable 2     |     -    |        -     |    $600    | Quote: Dash Developers, Inc   |
+| TC 4        | Deliverable 3     |   2 hrs  |       $25    |     $50    | $25/hr billable rate          |
+| *Subtotal*  |                   |          |              |  *$1,200*  | Assumes 12 USD/DASH (rounded) |
+| Discount    | 10% reduction     |          |              |    -$120   | Because I love dash           |
+| **Total**   |                   |          |              | **$1,080** | Total time costs              |
 
 ###### Table 4 - Material Costs
 | Material Costs |    Description    |  Deliverable  | Cost (USD) |          Comment         |
