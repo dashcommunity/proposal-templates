@@ -55,12 +55,13 @@ Real proposal example narrative
 This section provides a reasonable project schedule.  Estimate dates based on best available data.  Anticipate potential issues and provide assumptions/comments to  and manage personal and third-party expectations.  Milestones may or may not correspond one-to-one with deliverables.  
 
 ###### Example
-| Milestone    |                  Description              | Completion Date |                 Comment                 |
-|--------------|-------------------------------------------|:---------------:|-----------------------------------------|
-| MS 1         | Deliverable 1 and 2 planned               |    2016-11-07   | Assumes 2016-11-04 funding              |
-| MS 2         | Deliverable 1 complete; del. 3 planned    |    2016-11-14   | Assumes x                               |
-| MS 3         | Deliverable 2 complete                    |    2016-11-28   | This may go wrong between MS 3 and MS 4 |
-| MS 4         | Deliverable 3 complete                    |    2016-12-14   | Milestone depends on continued funding  |
+###### Table 1 - Project Milestones
+| Milestone   |                  Description           | Completion Date |                 Comment                |
+|-------------|----------------------------------------|:---------------:|----------------------------------------|
+| MS 1        | Deliverable 1 and 2 planned            |    2016-11-07   | Assumes 2016-11-04 funding             |
+| MS 2        | Deliverable 1 complete; del. 3 planned |    2016-11-14   |                                        |
+| MS 3        | Deliverable 2 complete                 |    2016-11-28   | Assumes x about MS 2                   |
+| MS 4        | Deliverable 3 complete                 |    2016-12-14   | Milestone depends on continued funding |
 
 ### Budget
 
@@ -77,16 +78,16 @@ Included here would be a description of what kinds of resources are needed to ac
 ###### Description
 This section provides itemized costs, in tabular form
 
-###### Table 1 - Total Costs Requested
+###### Table 2 - Total Costs Requested
 |         Item        |    Cost   |   Units  |                       Comment                      |
 |---------------------|:---------:|:--------:|----------------------------------------------------|
-| Time                |   $1,080  |    USD   | See Table 2                                        |
-| Materials           |    $210   |    USD   | See Table 3                                        |
+| Time                |   $1,080  |    USD   | See Table 3                                        |
+| Materials           |    $210   |    USD   | See Table 4                                        |
 | *Subtotal*          |  *$1,290* |    USD   | Total project cost                                 |
 | *Subtotal*          |  *107.5*  |   DASH   | Using $12 USD/DASH                                 |
 | **Total Requested** |  **100**  | **DASH** | Round down, because I love dash (and even numbers) |
 
-###### Table 2 - Time Costs
+###### Table 3 - Time Costs
 | Time Costs  | Description               | Quantity |  Rate (USD)  | Cost (USD) | Comment                       |
 |-------------|---------------------------|:--------:|:------------:|:----------:|-------------------------------|
 | TC 1        | Deliverable 1             |   1 hr   |       $50    |     $50    | $50/hr billable rate          |
@@ -97,7 +98,7 @@ This section provides itemized costs, in tabular form
 | Discount    | 10% reduction             |          |              |    -$120   | Because I love dash           |
 | **Total**   |                           |          |              | **$1,080** | Total time costs              |
 
-###### Table 3 - Material Costs
+###### Table 4 - Material Costs
 | Material Costs |    Description    |  Deliverable  | Cost (USD) |          Comment         |
 |----------------|-------------------|:-------------:|:----------:|--------------------------|
 | MC 1           | Hardware          | Deliverable 1 |    $200    | Raspberry Pi for testing |
@@ -117,9 +118,9 @@ This section answers the question *how much are you requesting over what time pe
 Now that you know your total schedule and budget, you can divide the cost accordingly.  If the total time required is 2 months and the total budget requested is 100 DASH, schedule your payment terms as **50 DASH per month** for **2 months**
 
 Terms
-* 50 DASH per month
-* 2 months
 * 100 DASH total
+  * 50 DASH per month
+  * 2 months
 
 ###### Example
 Real proposal example
