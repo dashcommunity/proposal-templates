@@ -109,7 +109,6 @@ This section provides itemized costs, in tabular form
 Real proposal example
 
 
-
 ### Terms
 
 ###### Description
@@ -126,23 +125,6 @@ Terms
 Real proposal example
 
 
-### Metadata
-
-###### Description
-* proposal-name: a unique label, 20 characters or less
-* url -- a proposer-created webpage or forum post containing detailed proposal information
-* payment-count -- how many cycles the proposal is requesting payment
-* block-start -- the requested start of proposal payments
-* dash-address -- the address to receive proposal payments
-* monthly-payment-dash -- the requested payment amount
-
-###### Example
-* proposal-name: a unique label, 20 characters or less
-* url -- a proposer-created webpage or forum post containing detailed proposal information
-* payment-count -- how many cycles the proposal is requesting payment
-* block-start -- the requested start of proposal payments
-* dash-address -- the address to receive proposal payments
-* monthly-payment-dash -- the requested payment amount
 
 ### Closing
 
