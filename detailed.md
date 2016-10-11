@@ -86,10 +86,10 @@ This section provides a reasonable project schedule.  Estimate dates based on be
 ###### Table 1 - Project Milestones
 | Milestone   |              Description      | Completion Date |               Comment               |
 |-------------|-------------------------------|:---------------:|-------------------------------------|
-| MS 1        | Deliverable 1.1, 1.2 planned  |    2016-11-07   | Assumes 2016-11-04 funding          |
-| MS 2        | Deliverable 1.1 done          |    2016-11-31   | Confident delivery date             |
-| MS 3        | Deliverable 1.2 done          |    2017-03-31   | Delivery update via MS 4 report     |
-| MS 4        | Deliverable 1.3 api v1 design |    2016-04-15   | Will deliver separate status report |
+| MS 1        | Deliverable 1.1, 1.2 planned  |    2016-11-01   | Mostly done already                 |
+| MS 2        | Deliverable 1.1 done          |    2016-12-01   | Confident delivery date             |
+| MS 3        | Deliverable 1.2 done          |    2017-04-01   | Delivery update via MS 4 report     |
+| MS 4        | Deliverable 1.3 api v1 design |    2017-05-01   | Will deliver separate status report |
 | MS 5        | Deliverable 2 done            |    201x-xx-15   | Updated on 15th of each month       |
 | MS 6        | Deliverable 3-6               |    201x-xx-xx   | Managed as needed                   |
 | MS 7        | Deliverable 1.3 done          |    2017-10-01   | Delivery update via MS 4 report     |
@@ -149,7 +149,7 @@ This section provides itemized costs, in tabular form
 ###### Example
 *Template author's note: the core-team proposal on dashcentral.org does not present the schedule as intended by this template (i.e. answering the question: "when will you complete key milestones").  I have pasted in the closest approximation I could find within the body of that proposal.  Someone from core or the commmunity is more than welcome to help fill this out*
 
-
+###### Table 2
 |         Item  |   Price  |   Qty    |   Cost   |   Unit   |           Comment      |
 |---------------|----------|----------|----------|----------|------------------------|
 | Role 1        |  244.67  |     1    |  244.67  |   DASH   | Tungfa                 |
@@ -158,9 +158,9 @@ This section provides itemized costs, in tabular form
 | Role 4        |   25.00  |     3    |   75.00  |   DASH   | Elbereth, Alexy, Raico |
 | **Total       |          |  **16**  | 1176.67  | **DASH** |                        |
 
-*Note 1: Flare, UdjinM6, Moocowmoo, Crowning, Fernando, Kot, QuantumExplorer, Yidakee, BabyGiraffe, Acidburn, Ddink7*
+* *Note 1: Flare, UdjinM6, Moocowmoo, Crowning, Fernando, Kot, QuantumExplorer, Yidakee, BabyGiraffe, Acidburn, Ddink7*
 
-### Terms
+##### Terms
 
 ###### Description
 This section answers the question *how much are you requesting over what time period*
