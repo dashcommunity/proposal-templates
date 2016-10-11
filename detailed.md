@@ -1,6 +1,6 @@
 ###### Usage & Content
 * Follow this [proposal guide](https://github.com/dashcommunity/guides/blob/master/create_proposal_from_template.md) to use this template
-* Example content is adapted from the [core-team proposal](https://www.dashcentral.org/p/core-team), as well as this [cost breakdown forum post](https://www.dash.org/forum/threads/core-proposal-split-proposal.9188/#post-97222) 
+* Example content is adapted from the [core-team proposal](https://www.dashcentral.org/p/core-team), as well as this [cost breakdown forum post](https://www.dash.org/forum/threads/core-proposal-split-proposal.9188/) 
 
 # Proposal Template - Detailed
 
