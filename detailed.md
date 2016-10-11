@@ -32,11 +32,13 @@ This section answers the question *what are you providing*, in narrative form.
 *Template author's note: the core-team proposal on dashcentral.org does not exactly present the scope as intended by this template (i.e. answering the question: "what are you providing").  I have pasted in the closest approximation I could find within the body of that proposal.  I have also rearranged it slightly and broken it up into sections for greater readability.*
 
 **Human Resource Management**
+
 To be a paid team member, one simply needs to agree to our pledge. The pledge is To work on Dash each and every day to expand and improve the ecosystem to the best of my ability?. Whatever someone feels they can contribute to the project is fine, as long as they meet that minimum amount of work. 
 
 Our team structure is highly organized. We have professional project managers onboard which are helping monitor and optimize our process. These project managers have pledged to act as objective observers, hold each team member accountable for what they say they will do, and will recommend if some team members are underperforming or for other reasons need to be removed from a paid spot on the team.
 
 **Scope of services**
+
 Anyone, with any skill set (software, quality assurance, automation, admin, marketing, legal, etc) is needed. 
 
 ##### Deliverables
@@ -79,18 +81,18 @@ It's up to the person how much they work on Dash and how much they are able to e
 This section provides a reasonable project schedule.  Estimate dates based on best available data.  Anticipate potential issues and provide assumptions/comments to  and manage personal and third-party expectations.  Milestones may or may not correspond one-to-one with deliverables.  
 
 ###### Example
-*Template author's note: the core-team proposal on dashcentral.org does not present the schedule as intended by this template (i.e. answering the question: "what are you providing").  I have created a small sample list intended to be edited at some time with better information.  Someone from core or the commmunity is more than welcome to help fill this out*
+*Template author's note: the core-team proposal on dashcentral.org does not present the schedule as intended by this template (i.e. answering the question: "when will you complete key milestones").  I have created a small sample list intended to be edited at some time with better information.  Someone from core or the commmunity is more than welcome to help fill this out*
 
 ###### Table 1 - Project Milestones
-| Milestone   |              Description        | Completion Date |                 Comment                |
-|-------------|---------------------------------|:---------------:|----------------------------------------|
-| MS 1        | Del. 1.1, 1.2 planned           |    2016-11-07   | Assumes 2016-11-04 funding             |
-| MS 2        | Del. 1.1 done; del.             |    2016-11-31   | Confident delivery date                |
-| MS 3        | Del. 1.2 done                   |    2017-03-31   | Delivery update via MS 4 report        |
-| MS 4        | Del. 1.3 api v1 initial design  |    2016-04-15   | Will deliver separate status with this |
-| MS 5        | Del 2 done                      |    201x-xx-15   | Updated on 15th of each month          |
-| MS 6        | Del 3 - Del 6                   |    201x-xx-xx   | Managed as needed                      |
-| MS 7        | Del 1.3 done                    |    2017-10-01   | Delivery update via MS 4 report        |
+| Milestone   |              Description      | Completion Date |               Comment               |
+|-------------|-------------------------------|:---------------:|-------------------------------------|
+| MS 1        | Deliverable 1.1, 1.2 planned  |    2016-11-07   | Assumes 2016-11-04 funding          |
+| MS 2        | Deliverable 1.1 done          |    2016-11-31   | Confident delivery date             |
+| MS 3        | Deliverable 1.2 done          |    2017-03-31   | Delivery update via MS 4 report     |
+| MS 4        | Deliverable 1.3 api v1 design |    2016-04-15   | Will deliver separate status report |
+| MS 5        | Deliverable 2 done            |    201x-xx-15   | Updated on 15th of each month       |
+| MS 6        | Deliverable 3-6               |    201x-xx-xx   | Managed as needed                   |
+| MS 7        | Deliverable 1.3 done          |    2017-10-01   | Delivery update via MS 4 report     |
 
 ### Budget
 
@@ -104,9 +106,11 @@ Included here would be a description of what kinds of resources are needed to ac
 *Template author's note: the core-team proposal on dashcentral.org does not present the schedule as intended by this template (i.e. answering the question: "when will you complete key milestones").  I have pasted in the closest approximation I could find within the body of that proposal.  Someone from core or the commmunity is more than welcome to help fill this out*
 
 **Fund Allocation Transparency**
+
 We will be 100% transparent about who on our team is paid and how much they are paid. As defined, a core team member is someone that has made the above pledge to work on Dash everyday. That person then has the freedom to work on Dash as much as they wish to expand their earning potential. We believe in transparency when it comes to the administration of a decentralized product such as Dash, so we will make this data available on one of the websites for the community.
 
 **Compensation Methodology**
+
 I'd like to stress that this compensation is by no means meant to provide a "full-time salary" for contributors. Compensation will be modest. At current market prices, the compensation would fall in the category of token appreciation.  We intend to have 2 kinds of slots for paid team members depending on the amount of time they are willing to commit - part-time and full-time. Full-time slots will offer payment of 2-4x (TBD by the project management team, maybe even a monthly contest?) that of a part-time slot. Team members can switch between the two depending on how much they feel they can offer to the project. This should give us flexibility to provide incentive for development and show appreciation for the work that is being done.  We will also encourage team members to hold their Dash they are paid long term. 
 
 
@@ -144,13 +148,6 @@ This section provides itemized costs, in tabular form
 
 ###### Example
 *Template author's note: the core-team proposal on dashcentral.org does not present the schedule as intended by this template (i.e. answering the question: "when will you complete key milestones").  I have pasted in the closest approximation I could find within the body of that proposal.  Someone from core or the commmunity is more than welcome to help fill this out*
-
-core-team Funded with 1176 Dash
-This proposal is currently trying to pay for administrative duties, core, business development, forum maintenance and moderation and pays a group of 17 people. Each member pledges to work on Dash each and every day to expand and improve the ecosystem to the best of their ability. The proposal also says they will be 100% transparent in how they are paid. I think many assumed the core-team was only wallet development, and will show the split below. Although Evan and Daniel are on the proposal they are donating their funds to Tungfa. These are the Dash amounts and people paid from this proposal as of June 6th.
-244.67 Dash - Tungfa
-183.5 Dash - AndyDark
-61.17 Dash - Flare, UdjinM6, Moocowmoo, Crowning, Fernando, Kot, QuantumExplorer, Yidakee, BabyGiraffe, Acidburn, Ddink7
-25 Dash - Elbereth, Alexy, Raico
 
 
 |         Item  |   Price  |   Qty    |   Cost   |   Unit   |           Comment      |
