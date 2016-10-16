@@ -4,7 +4,7 @@
 * Two sample templates, [`simple.md`](https://github.com/dashcommunity/proposal-templates/blob/master/simple.md) and [`detailed.md`](https://github.com/dashcommunity/proposal-templates/blob/master/detailed.md) are provided for reference and use. 
 
 ### About this Document
-* This document ([`README.md`](https://github.com/dashcommunity/proposal-templates/blob/master/README.md)) provides general information about proposals and templates.  Step-by-step guides on how to create a template for the community and how to use a template for your own proposal are shown below
+* This document ([`README.md`](https://github.com/dashcommunity/proposal-templates/blob/master/README.md)) provides general information about proposals and templates.  Step-by-step guides on how to [create a template](https://github.com/dashcommunity/guides/blob/master/create_proposal_template.md) for the community and how to [use a template](https://github.com/dashcommunity/guides/blob/master/create_proposal_from_template.md) for your own proposal are located in the [guides repository](https://github.com/dashcommunity/guides).
 
 
 ### About Proposls
