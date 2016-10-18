@@ -1,3 +1,5 @@
+# Proposal Templates
+
 ##### About this Repository 
 * This Github repository ([`proposal-templates`](https://github.com/dashcommunity/proposal-templates)) contains templates intended to be used for proposals submitted to dash masternode operators (MNOs)
 * Anyone can create and store proposal templates here 
