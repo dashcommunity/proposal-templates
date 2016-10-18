@@ -26,11 +26,7 @@ Roger Ver is one of the most influencial voices in the cryptocurrency space.  Wh
 This section answers the question *what are you providing*, in narrative form.
 
 ###### Example
-Let's give Roger Ver a mastenode, and ask for an AMA in return.  This is a bold marketing move.  So bold it just might work.
-
-We need to get a hold of Roger, tell him we want to give him a masternode in exchange for some of his time to help him set it up, try it's features, and hold a public AMA.  
-
-The address I have provided on this proposal is owned by Dash Escrow, Inc.  Here is their [cyrptographically signed message](dummylink) proving so.  Dash Escrow has been informed of this proposal and will forward the 1,000 DASH to Roger if it passes. 
+Let's give Roger Ver a mastenode, and ask for an AMA in return.  This is a bold marketing move.  So bold it just might work.  We need to get a hold of Roger, tell him we want to give him a masternode in exchange for some of his time to help him set it up, try it's features, and hold a public AMA.  The address I have provided on this proposal is owned by Dash Escrow, Inc.  Here is their [cyrptographically signed message](dummylink) proving so.  Dash Escrow has been informed of this proposal and will forward the 1,000 DASH to Roger if it passes. 
 
 ##### Deliverables
 
