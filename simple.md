@@ -84,11 +84,6 @@ This section answers the question *how much are you requesting over what time pe
 
 Now that you know your total schedule and budget, you can divide the cost accordingly.  If the total time required is 2 months and the total budget requested is 100 DASH, schedule your payment terms as **50 DASH per month** for **2 months**
 
-Terms
-* 100 DASH total
-  * 50 DASH per month
-  * 2 months
-
 ###### Example
 I am requesting a **single one-time payment of 1,025 DASH**  to accomplish this. 
 
