@@ -31,7 +31,7 @@ Let's give Roger Ver a mastenode, and ask for an AMA in return.  This is a bold 
 ##### Deliverables
 
 ###### Description
-This section provides firm items that you will deliver, in numbered form.
+This section provides firm items that you will deliver.
 
 1. Deliverable 1
 2. Deliverable 2
@@ -40,7 +40,6 @@ This section provides firm items that you will deliver, in numbered form.
 ###### Example
 
 1. Cryptographic signed message from Dash Escrow 
-  * done (see above)
 2. Cryptographic signed message from Roger Ver
   * Will obtain this pending feedback from the community and MNO votes
   * Message will be him agreeing to accept our gift of a an AMA in return for a masternode
@@ -48,11 +47,12 @@ This section provides firm items that you will deliver, in numbered form.
 ### Schedule
 
 ###### Description
-This section answers the question *when will you complete key milestones*, in narrative form.  
+This section answers the question *when will you complete key milestones*.  
 
 ###### Example
 
-Deliverable 2 (Roger's signed message) will be obtained 10 days prior to voting deadline. 
+* **Deliverable 1:** is **done**
+* **Deliverable 2:** (Roger's signed message) will be **obtained 10 days prior to the voting** deadline. 
 
 ### Budget
 
@@ -71,11 +71,11 @@ The cost to try this crazy experiment are shown in table 1 below.
 This section provides itemized costs, in tabular form
 
 ###### Table 1 - Total Costs Requested
-|   Item        |    Cost   |   Units  |                       Comment                   |
-|---------------|:---------:|:--------:|-------------------------------------------------|
-| Masternode    |   1,000   |    DASH  | See Table 3                                     |
-| My time       |      25   |    DASH  | Coordination w/ Ver and reporting to community  |
-| **Total**     | **1,025** | **DASH** |                                                 |
+|   Item        |    Cost   |   Units  |                       Comment                        |
+|---------------|:---------:|:--------:|------------------------------------------------------|
+| Masternode    |   1,000   |    DASH  | He'll love it, and will never go back to bitcoin :)  |
+| My time       |      25   |    DASH  | Coordination w/ Ver and reporting to community       |
+| **Total**     | **1,025** | **DASH** |                                                      |
 
 ##### Terms
 
