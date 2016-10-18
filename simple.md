@@ -75,7 +75,8 @@ This section provides itemized costs, in tabular form
 |---------------|:---------:|:--------:|------------------------------------------------------|
 | Masternode    |   1,000   |    DASH  | He'll love it, and will never go back to bitcoin :)  |
 | My time       |      25   |    DASH  | Coordination w/ Ver and reporting to community       |
-| **Total**     | **1,025** | **DASH** |                                                      |
+| Proposal fee  |       5   |    DASH  | Reimburse fee to submit this proposal                |
+| **Total**     | **1,030** | **DASH** |                                                      |
 
 ##### Terms
 
@@ -85,7 +86,7 @@ This section answers the question *how much are you requesting over what time pe
 Now that you know your total schedule and budget, you can divide the cost accordingly.  If the total time required is 2 months and the total budget requested is 100 DASH, schedule your payment terms as **50 DASH per month** for **2 months**
 
 ###### Example
-I am requesting a **single one-time payment of 1,025 DASH**  to accomplish this. 
+I am requesting a **single one-time payment of 1,030 DASH**  to accomplish this. 
 
 ### Closing
 
