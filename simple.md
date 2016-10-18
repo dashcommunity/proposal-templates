@@ -51,8 +51,8 @@ This section answers the question *when will you complete key milestones*.
 
 ###### Example
 
-* **Deliverable 1:** is **done**
-* **Deliverable 2:** (Roger's signed message) will be **obtained 10 days prior to the voting** deadline. 
+* **Deliverable 1** (Dash Escrow signed message):  **done**
+* **Deliverable 2** (Roger's signed message): will be **obtained 10 days prior to the voting** deadline. 
 
 ### Budget
 
